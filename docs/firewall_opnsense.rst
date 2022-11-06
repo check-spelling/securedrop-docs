@@ -129,7 +129,7 @@ Connect to the OPNSense Web GUI
 
    |OPNSENSE - Default Login|
 
-If this is your first time logging in to the firewall, the setup wizard will be
+If this is your first time logging into the firewall, the setup wizard will be
 displayed. You should not step through it at this point, however, as there are
 other tasks to complete. To exit, click the OPNSense logo in the top left corner
 of the screen.
@@ -217,7 +217,7 @@ The Web GUI will now be available on the *Admin Gateway* IP address. Navigate
 to ``https://<Admin Gateway IP>`` in the *Unsafe Browser* and log in to the ``root``
 account using an OTP token and the passphrase you just set.
 
-Once you've logged in to the Web GUI, you are ready to continue configuring
+Once you've logged into the Web GUI, you are ready to continue configuring
 the firewall.
 
 Connect Interfaces and Test

@@ -46,7 +46,7 @@ contact us through the `SecureDrop Support Portal`_.
           to actually be deleted. SecureDrop uses ``shred`` to
           securely erase files, which takes significantly more time
           than normal file deletion. You can monitor the progress of
-          queued deletion jobs by logging in to the *Application
+          queued deletion jobs by logging into the *Application
           Server* over SSH and running::
 
             sudo journalctl -u securedrop_rqworker

@@ -214,7 +214,7 @@ enabled and double-click the *Journalist Interface* icon on the Desktop. Tor Bro
 will start and load the login page for the *Journalist Interface*. Use your username,
 passphrase, and two-factor authentication token to log in.
 
-By default, you will be logged in to the *Journalist Interface*'s source list page.
+By default, you will be logged into the *Journalist Interface*'s source list page.
 
 |SecureDrop main page|
 

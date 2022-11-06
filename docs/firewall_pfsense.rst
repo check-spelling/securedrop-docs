@@ -164,7 +164,7 @@ Setup Wizard
 ~~~~~~~~~~~~
 
 #. If you're setting up a brand new (or recently factory reset) router,
-   logging in to the pfSense WebGUI will automatically start the Setup
+   logging into the pfSense WebGUI will automatically start the Setup
    Wizard. Click **Next**, then **Next** again. Don't sign up for a pfSense Gold
    subscription (unless you want to).
 
@@ -216,7 +216,7 @@ continue.
 Now the WebGUI will be available on the Admin Gateway address. Navigate
 to ``https://<Admin Gateway IP>`` in the *Unsafe Browser*, and login as
 before except with the new passphrase you just set for the pfSense WebGUI.
-Once you've logged in to the WebGUI, you are ready to continue configuring
+Once you've logged into the WebGUI, you are ready to continue configuring
 the firewall.
 
 Connect Interfaces and Test

@@ -12,7 +12,7 @@ operational countermeasures built into SecureDrop. Attacks of a political nature
 — for example, if a source, journalist, or organization is threatened with legal
 action — are context-dependent, and determined by an ever-shifting climate
 around press freedoms. While these attack vectors are out of the scope of this
-document, they should be factored in to any organization’s threat model with
+document, they should be factored into any organization’s threat model with
 regional and political specificity.
 
 Application Code — SecureDrop Repository/Release
