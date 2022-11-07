@@ -64,7 +64,7 @@ send us materials and messages.
 
 When you make your first submission, you will receive a unique codename.
 Memorize it. If you write it down, be sure to destroy the copy as soon as
-you’ve committed it to memory. Use your codename to sign back in to
+you’ve committed it to memory. Use your codename to sign back into
 our source page, check for responses from our journalists, and upload
 additional materials.
 

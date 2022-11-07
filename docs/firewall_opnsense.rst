@@ -129,7 +129,7 @@ Connect to the OPNSense Web GUI
 
    |OPNSENSE - Default Login|
 
-If this is your first time logging in to the firewall, the setup wizard will be
+If this is your first time logging into the firewall, the setup wizard will be
 displayed. You should not step through it at this point, however, as there are
 other tasks to complete. To exit, click the OPNSense logo in the top left corner
 of the screen.
@@ -138,7 +138,7 @@ Set a Strong Password
 ~~~~~~~~~~~~~~~~~~~~~
 
 Navigate to **System > Access > Users** and click the edit button for the ``root``
-user. On the subsequent page, set a strong admin password. We recomend generating
+user. On the subsequent page, set a strong admin password. We recommend generating
 a strong passphrase with KeePassXC and saving it in the Tails Persistent folder using
 the provided KeePassXC database template. Two-factor authentication will be enabled 
 in a later step.
@@ -217,7 +217,7 @@ The Web GUI will now be available on the *Admin Gateway* IP address. Navigate
 to ``https://<Admin Gateway IP>`` in the *Unsafe Browser* and log in to the ``root``
 account using an OTP token and the passphrase you just set.
 
-Once you've logged in to the Web GUI, you are ready to continue configuring
+Once you've logged into the Web GUI, you are ready to continue configuring
 the firewall.
 
 Connect Interfaces and Test
@@ -420,7 +420,7 @@ The OPT1 and OPT2 interfaces will be used for the *Application Server* and *Moni
 Server* respectively. To enable them, first connect the *Application Server* to the
 physical OPT1 port and the *Monitor Server* to the OPT2 port.
 
-Next, navigate to **Interfaces > Assignments**. LAN and WAN will alaready be enabled.
+Next, navigate to **Interfaces > Assignments**. LAN and WAN will already be enabled.
 Click the **+** button in the **New Interface** section to enable the OPT1 interface
 on the next available NIC (``igb2`` in the screenshot below). Once OPT1 has been
 added, click **+** again to add OPT2 (on ``igb3`` in the screenshot below)

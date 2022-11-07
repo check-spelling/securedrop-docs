@@ -12,7 +12,7 @@ operational countermeasures built into SecureDrop. Attacks of a political nature
 — for example, if a source, journalist, or organization is threatened with legal
 action — are context-dependent, and determined by an ever-shifting climate
 around press freedoms. While these attack vectors are out of the scope of this
-document, they should be factored in to any organization’s threat model with
+document, they should be factored into any organization’s threat model with
 regional and political specificity.
 
 Application Code — SecureDrop Repository/Release
@@ -136,7 +136,7 @@ Attacks on SecureDrop Dependencies
 -  Known vulnerabilities in Tor (incl. Onion Service cryptography, authentication)
 -  Malicious apt package installed at install-time or during updates
 -  Known weakness in Onion Service cryptography
--  Github is compromised
+-  GitHub is compromised
 -  Firewall is not up-to-date
 -  Tails ISO malicious
 -  Ubuntu ISO malicious
@@ -230,7 +230,7 @@ Countermeasures in User Behavior Recommendations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -  `Source Guide <https://docs.securedrop.org/en/stable/source.html>`__ gives instructructions on best practices for the entire submission workflow
 -  Source interface banner suggests that user disables JS (high security settings in Tor Browser)
--  `Journalist Guide <https://docs.securedrop.org/en/stable/journalist.html>`__ informs users of malware risks, the importance of strict comparmentalization of SecureDrop-related activities
+-  `Journalist Guide <https://docs.securedrop.org/en/stable/journalist.html>`__ informs users of malware risks, the importance of strict compartmentalization of SecureDrop-related activities
 -  `SecureDrop Deployment Guide <https://docs.securedrop.org/en/stable/deployment_practices.html>`__ gives best practices for proper administration of the SecureDrop system, and its public-facing properties like the Landing Page
 -  `Admin Guide <https://docs.securedrop.org/en/stable/admin.html>`__ gives instructions for long-term maintenance of the technical properties of the SecureDrop system, as well as operations to support Journalists
 -  All Admin tasks are completed over Tor/Tor authenticated onion services after installation

@@ -214,7 +214,7 @@ enabled and double-click the *Journalist Interface* icon on the Desktop. Tor Bro
 will start and load the login page for the *Journalist Interface*. Use your username,
 passphrase, and two-factor authentication token to log in.
 
-By default, you will be logged in to the *Journalist Interface*'s source list page.
+By default, you will be logged into the *Journalist Interface*'s source list page.
 
 |SecureDrop main page|
 
@@ -421,7 +421,7 @@ were previously uploaded will still be available via the *Journalist Interface*.
 Preventing Short Initial Messages
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-By default, SecureDrop does not apply a mimimum length requirement to messages. If
+By default, SecureDrop does not apply a minimum length requirement to messages. If
 your instance is experiencing a high volume of short one-time messages with no actionable
 content, or if you would like to indicate to sources that their initial message
 should include enough information for journalists to respond to them effectively, you
@@ -689,7 +689,7 @@ In both cases, follow these steps:
    followed by the version number displayed in the footer of your *Source Interface*,
    you are running the applicable version of the SecureDrop code on your
    workstation, and can proceed to the next step.
-   If not, **it is not not safe to proceed**. Follow the upgrade instructions
+   If not, **it is not safe to proceed**. Follow the upgrade instructions
    associated with the `release notes for the most recent release of
    SecureDrop <https://securedrop.org/news/release-announcement/>`__. Apply all
    available updates, including for the Tails operating system.
